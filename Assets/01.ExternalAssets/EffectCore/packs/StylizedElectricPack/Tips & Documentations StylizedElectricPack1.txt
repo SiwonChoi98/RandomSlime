@@ -1,0 +1,40 @@
+Tips and tutorials: Stylized Electric Pack #1
+
+How to make new colored lightning strikes
+
+1. Copy the template folder (StylizedElectricPack1/prefabs/"what you want to copy"/Template"what you want to copy")
+2. Drag out the prefab into the sceneview
+3. Open up the tabs in ECparticleLinerendererColorChangerMaster script and start changing the color values.
+4. Use apply check to apply color or turn on the keep_apply changes.
+5. Save prefab
+
+Optimization tips:
+Disabling components is the way to go, all particles can be reduced in emittion if needed. 
+(Inside the Particle System, Emission, lower the count in burst or time, spawns less particle).
+
+Custom Shaders
+The electricity beam is created in amplify material editor which is available in the unity assetstore. It is possible to inspect the code but if you have access to that software you can view the nodes there.
+The shader is flipping frames, but as of right now is only using a small part of the entire texture, it just looked better this way.
+
+The green channel of the lightning texture affects the vertex position of the trail.
+The alpha controls the size of the white in the middle of electricity bolts.
+
+Vertex Offset turns on vertex displacement
+Noise Sine Exp allows ExpMax and ExpMin to randomize
+
+Columns, Rows adjusts how many cells the animation has.
+Speed adjusts speed between frames.
+XTiling,YTiling scales cells.
+ExpMax, ExpMin adjusts how white the middle should be. (needs Noise sine exp turned on).
+Cloud = just green channel in same texture.
+Max-Noise, Min-Noise: The amplitude of the vertex.
+Center light = Essentially darken or brightens how bright the middle should be
+
+The looping electric beam effects are not scaleable but the particle effects are.
+If you want to scale the looping electric beam effect you need to adjust the WIDTH in the curve editor inside line renderer component.
+Just select the max number and boost it up to whatever scale you desire.
+
+If you have any questions, thoughts or suggestions please email me at effectcore.contact@gmail.com with the topic: "Stylized Electric Pack 1 Feedback".
+
+PS: I apolgize for having rigidbodies and DestroyMe Scripts on the effects, this so I can test the effects.
+The unity scene might lag if you have to many effects with the colorchange script keep_apply feature applied.

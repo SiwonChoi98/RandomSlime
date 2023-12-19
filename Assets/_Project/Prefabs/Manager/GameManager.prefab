@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2674931502302617782
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2674931502302617776}
+  - component: {fileID: 2674931502302617783}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2674931502302617776
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2674931502302617782}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -30.1834, y: 3.8486829, z: 3.656402}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2674931502302617783
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2674931502302617782}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd9b375495d210e4baae4c3c071bf161, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  EquipWeapon: {fileID: 0}
+  playerHealthImage: {fileID: 0}
+  EnemyActiveCount: 0
+  EnemyKillCount: 0
+  isActiveShield: 0
+  _skillSelectPanel: {fileID: 0}
+  _pauseUIPanel: {fileID: 0}
+  IsBoss: 0
+  PlayTime: 0
+  _enemyCountText: {fileID: 0}
+  _playerExpImage: {fileID: 0}
+  _playerLevelText: {fileID: 0}
+  _SkillSelectPlayerLevelText: {fileID: 0}
+  _playTimeText: {fileID: 0}
+  _playGaugeImage: {fileID: 0}
+  InGameExps: []
+  EnemyDatas: []
+  _intervalTime: 0
+  _initIntervalTime: 0
+  _monsterCount: 0
+  _spawnPoint:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  _bossSpawnPoint: {fileID: 0}
+  CurStage: {fileID: 0}
+  WaveIndex: 0
+  StageStart: 0
+  SpwanPosCount: 0
+  BarricadeObj: {fileID: 0}
+  enemySprite: []
+  IsMagnetic: 0
+  _curMagneticTime: 2
+  _initMagneticTime: 2

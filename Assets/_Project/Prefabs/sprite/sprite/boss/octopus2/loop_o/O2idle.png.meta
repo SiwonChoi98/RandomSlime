@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: a36259f203f725645ab3a168e6a7cfcb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: O2idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4241.6665
+        width: 1026.5
+        height: 848.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90dff29d54ab214bbeffc791faffaaa
+      internalID: -258182052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O2idle_1
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 4241.6665
+        width: 1026.5
+        height: 848.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4f0713702720244bc523155b3a9db7
+      internalID: -1171418692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O2idle_2
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 4241.6665
+        width: 1026.5
+        height: 848.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995b3f7b9838c684a8c64fbec601e235
+      internalID: 1099907250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O2idle_3
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 4241.6665
+        width: 1026.5
+        height: 848.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284a5c5e439219c4b83b31cec7ce1cbf
+      internalID: -1981987259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O2idle_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3393.6667
+        width: 1026.5
+        height: 848.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9d887ec045c7c4da38876d82355ad1
+      internalID: -625796144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O2idle_5
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 3393.6667
+        width: 1026.5
+        height: 848.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77461392620cd3442afa380cd4566d85
+      internalID: 4268578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O2idle_6
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 3393.6667
+        width: 1026.5
+        height: 848.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782e143f0a1a5ae47a1f5f598aa7d836
+      internalID: 1734406928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O2idle_7
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 3393.6667
+        width: 1026.5
+        height: 848.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f28a1d837114c4d9147790df1a5191
+      internalID: 860048148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O2idle_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2545.6667
+        width: 1026.5
+        height: 848.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7982917b4c448324b967de52ee4853e0
+      internalID: -2138316746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O2idle_9
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 2545.6667
+        width: 1026.5
+        height: 848.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c147c23da863220419ef2bfd495182de
+      internalID: -1980057305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O2idle_10
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 2545.6667
+        width: 1026.5
+        height: 848.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a58c09819369f4ba27e4d46a6e3b65
+      internalID: 271471075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O2idle_11
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 2545.6667
+        width: 1026.5
+        height: 848.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb4f86c292f4fb4fa1fea3f7df79bcf
+      internalID: 950002700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O2idle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1697.6667
+        width: 1026.5
+        height: 848.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943312695043489488f5255b59e93331
+      internalID: -1793496307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O2idle_13
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1697.6667
+        width: 1026.5
+        height: 848.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f8f0a3f523ff84fa9d6f573416b5ca
+      internalID: 1760443170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O2idle_14
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 1697.6667
+        width: 1026.5
+        height: 848.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb252639df59e584bb413fecb44527db
+      internalID: 1803610018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O2idle_15
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 1697.6667
+        width: 1026.5
+        height: 848.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2672d379026c04f45a5c15d577e71cbc
+      internalID: 166472892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O2idle_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 849.6667
+        width: 1026.5
+        height: 848.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b747ab40c0215c94ca40a75267a3fb36
+      internalID: 37212681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O2idle_17
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 849.6667
+        width: 1026.5
+        height: 848.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f16c962a9a668f459c487ded2101fb3
+      internalID: 399402598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O2idle_18
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 849.6667
+        width: 1026.5
+        height: 848.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba00b177ead1ce43a2dc2b1d44a1573
+      internalID: -1341850200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O2idle_19
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 849.6667
+        width: 1026.5
+        height: 848.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5e53f9795039f4cb70aba1164eab52
+      internalID: -1009264502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O2idle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.666687
+        width: 1026.5
+        height: 848.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c6e041629a0a14492445df71a82747
+      internalID: 1023474512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O2idle_21
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1.666687
+        width: 1026.5
+        height: 848.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e7ed120169c394c824c264fdcd7125
+      internalID: 610527538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O2idle_22
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 1.666687
+        width: 1026.5
+        height: 848.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9432d2052cf05f8429256bb858c4b83b
+      internalID: 1781557696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O2idle_23
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 1.666687
+        width: 1026.5
+        height: 848.3333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9dd7fcb70b83a46ab7dbae1cc4ad0e
+      internalID: -1856341366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e8a15491ae4259b4987ea0c8dd65aaba
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      O2idle_0: -258182052
+      O2idle_1: -1171418692
+      O2idle_10: 271471075
+      O2idle_11: 950002700
+      O2idle_12: -1793496307
+      O2idle_13: 1760443170
+      O2idle_14: 1803610018
+      O2idle_15: 166472892
+      O2idle_16: 37212681
+      O2idle_17: 399402598
+      O2idle_18: -1341850200
+      O2idle_19: -1009264502
+      O2idle_2: 1099907250
+      O2idle_20: 1023474512
+      O2idle_21: 610527538
+      O2idle_22: 1781557696
+      O2idle_23: -1856341366
+      O2idle_3: -1981987259
+      O2idle_4: -625796144
+      O2idle_5: 4268578
+      O2idle_6: 1734406928
+      O2idle_7: 860048148
+      O2idle_8: -2138316746
+      O2idle_9: -1980057305
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

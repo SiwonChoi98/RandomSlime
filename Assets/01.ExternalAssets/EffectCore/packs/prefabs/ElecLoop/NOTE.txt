@@ -1,0 +1,5 @@
+The looping electric beam effects are not scaleable but the particle effects are.
+
+If you want to scale the looping electric beam effect you need to adjust the WIDTH in the curve editor inside line renderer component.
+
+Just select the max number and boost it up to whatever scale you desire.
